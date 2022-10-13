@@ -62,3 +62,7 @@ pip install --upgrade -r requirements.txt
 
 - if the script take 10 seconds without printing anything, close the script and run it again.
   - this problem is caused by the codeforces website, it's not a problem with the script.
+  
+## Demo Video
+
+<https://user-images.githubusercontent.com/63050133/195731401-1eae8269-6d1b-43f9-a1ba-b05e4f45752e.mp4>
