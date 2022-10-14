@@ -66,3 +66,5 @@ pip install --upgrade -r requirements.txt
 ## Demo Video
 
 <https://user-images.githubusercontent.com/63050133/195731401-1eae8269-6d1b-43f9-a1ba-b05e4f45752e.mp4>
+
+## [Live Tutorial Video](https://drive.google.com/file/d/1fHIHEHDqZSm4gZtoy_xC7k5dYytVsuTg/view?usp=sharing)
