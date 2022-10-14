@@ -41,6 +41,8 @@ cd Codeforces-Friends-Script
 pip install --upgrade -r requirements.txt
 ```
 
+***Install [Chorme Driver](https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver/01fde32d0ed245141e24151f83b7c2db31d596a4#quick-installation)***
+
 ## Usage
 
 1. Rename `.env.example` to `.env` and fill the data:
